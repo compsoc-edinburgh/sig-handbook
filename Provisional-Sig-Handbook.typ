@@ -77,13 +77,17 @@ of this regulation is for SIGs to primarily manage themselves. In almost all
 cases CompSoc should not and should have no reason to be involved in the 
 day-to-day running of a SIG. To that end, this document is created.
 
+There are two major changes in this document which should be reviewed first,
+the inactivity proceedings which formalise actions CompSoc may take, and the
+addition of SIG mandates.
+
 Thank you to all involved in keeping our SIGs best-in-class, you make CompSoc
 great.
 
 Thank you to Marton, the author of the SIG handbook before the 2026 rewrite,
 who large portions of this document have been mercilessly copied from.
 
-CompSoc \<3 you, from Skye K. Vasquez, Emily B. Miller, and all editors who may
+CompSoc \<3 you, from Skye, Emily, and all editors who may
 follow (add your names).
 
 == Formalisation of Terms
