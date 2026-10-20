@@ -161,6 +161,15 @@ The process for modifying this document is as follows:
   while at a committee activity or event, and uphold the rights of every
   member, including keeping event inclsivity in mind and preventing hatespeech,
   antisocial behaviour, and crimes.
++ If a Committee becomes aware of a danger to SIG members outside of SIG event
+  times they must make CompSoc aware immediately.
++ If harm in any way is to come to a member of a SIG during or relating to a
+  SIG activity event or service CompSoc must be informed immediately. Letting
+  CompSoc know will be viewed in your favour, often something occuring isn't as
+  bad as trying to hide that something happened, so its always best to file.
++ A SIG should file a risk assessment if they perceive an event to be large
+  enough or high risk enough for it to be resonable, and must file one if
+  requested by CompSoc committee.
 + SIGs may reach out to the CompSoc EDI Representitive for help or guidence on
   keeping events accessable and safe.
 + A committee may defer an internal vote to CompSoc if they are unable to reach
@@ -246,6 +255,7 @@ to make expansions to the handbook which apply to their own SIG. The following
 are points on what must should and may be in a mandate. It is not an exclusive
 list. It is recomended to read the #link(<suggestions>)[suggestion section]
 when making or modifying a mandate.
+
 == A mandate must include:
 + The mechanism to update the mandate
 + A resonable mechanism for a vote of no confidence to be cast by members
@@ -258,8 +268,8 @@ when making or modifying a mandate.
   beyond the president.
 
 = Disciplinary Action <diciplinary>
-= Against a member
-= Against a SIG or its Committee
+== Against a member
+== Against a SIG or its Committee
 
 = Inactivity
 Inactivity is a natural state for a SIG which has reached the end of its life. 
